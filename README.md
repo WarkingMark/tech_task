@@ -9,7 +9,6 @@ npm version: 8.1.0
 after:
 
 npm install
-
 ```
 
 ### Compiles and hot-reloads for development
