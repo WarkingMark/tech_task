@@ -1,10 +1,15 @@
 # tz
 ## Project setup
 ```
+install:
+
 node version: v16.13.0
 npm version: 8.1.0
--------------------
+
+after:
+
 npm install
+
 ```
 
 ### Compiles and hot-reloads for development
